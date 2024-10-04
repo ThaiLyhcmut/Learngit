@@ -1,9 +1,9 @@
 # Document Git
 ## Các thuật ngữ trong git
 ![stupid](./stupid.png)
-### Working directory(Thư mục làm việc):Khu vực chứa dự án mà chúng ta đang làm việc.
-### Staging area (Khu vực sắp xếp):Khu vực chứa thông tin thay đổi của các file.
-### Repository (Kho lưu trữ): Kho lưu trữ để lưu trữ dữ liệu, lịch sử các phiên bản
+Working directory(Thư mục làm việc):Khu vực chứa dự án mà chúng ta đang làm việc.
+Staging area (Khu vực sắp xếp):Khu vực chứa thông tin thay đổi của các file.
+Repository (Kho lưu trữ): Kho lưu trữ để lưu trữ dữ liệu, lịch sử các phiên bản
 ## Các câu lệnh phổ biến trong Git
 ```bash
 git --version
